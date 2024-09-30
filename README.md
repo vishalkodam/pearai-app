@@ -1,6 +1,6 @@
 # PearAI: The Open Source AI-Powered Code Editor
 
-## Note: This is our fork of VSCode. Our main functionality lives in a submodule, which you can find here: https://github.com/trypear/pearai-submodule. Commits to this repository will be less than our submodule.
+## Note: This is our fork of VSCode. Our main functionality lives in our submodule, which you can find here: https://github.com/trypear/pearai-submodule. Commits to this repository will be less than our submodule.
 
 Supercharge your development with an editor designed for less coding, using AI. PearAI is forked from VSCode and Continue, and aims to reduce the time from ideation to conception for your product development by achieving the most seamless integration with AI.
 
